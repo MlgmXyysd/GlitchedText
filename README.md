@@ -3,4 +3,4 @@
 
 # License
 
-[AMTPL v1 + GPL v3](LICENSE)
+[GPL v3](LICENSE)
